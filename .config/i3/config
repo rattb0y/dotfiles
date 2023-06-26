@@ -45,6 +45,9 @@ floating_modifier $mod
 # start alacritty
 bindsym $mod+Return exec alacritty
 
+# Start Alacritty in the fish shell
+bindsym $mod+Shift+Return exec alacritty -e fish
+
 # start rofi (a program launcher)
 bindsym $mod+p exec --no-startup-id ~/.config/rofi/launchers/type-6/launcher.sh
 
@@ -178,16 +181,16 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-exec killall polybar
-
-# launch polybar at startup 
-exec_always ~/.config/polybar/launch.sh &
+#exec killall-q polybar
 
 # launch pywal at startup 
-exec_always ~/.config/pywal/random-wallpaper.sh
+exec_always ~/.config/pywal/random-wallpaper.sh &
 
 # launch picom at strtup
 exec_always picom
+
+# launch polybar at startup
+exec_always /home/kris/.config/polybar/scripts/intel-nuc.sh &
 
 # launch nextcloud at startup
 exec_always /home/kris/Applications/Nextcloud-3.9.0-x86_64.AppImage &
