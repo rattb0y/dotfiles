@@ -1,4 +1,4 @@
-# rattb0y's i3 config 
+# rattb0y's i3 config for the intel-nuc 
 # 
 # Dependencies
 #
@@ -181,7 +181,7 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-#exec killall-q polybar
+exec killall-q polybar
 
 # launch pywal at startup 
 exec_always ~/.config/pywal/random-wallpaper.sh &
@@ -194,5 +194,4 @@ exec_always /home/kris/.config/polybar/scripts/intel-nuc.sh &
 
 # launch nextcloud at startup
 exec_always /home/kris/Applications/Nextcloud-3.9.0-x86_64.AppImage &
-
 
