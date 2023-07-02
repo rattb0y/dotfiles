@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import json
-import requests
 from datetime import datetime
 
 WEATHER_CODES = {
