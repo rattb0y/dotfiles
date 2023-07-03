@@ -6,7 +6,7 @@
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": ["wlr/workspaces", "custom/weather"],
-    "modules-center": ["hyprland/window"],
+    "modules-center": ["hyprland/window", "keyboard-state"],
     "modules-right": ["idle_inhibitor", "pulseaudio", "network", "clock", "tray"],
     // Modules configuration
     "wlr/workspaces": {
@@ -17,7 +17,7 @@
          "format-icons": {
              "1": "",
              "2": "",
-             "3": "",
+             "3": "",
              "4": "",
              "5": "",
              "6": "",
@@ -135,10 +135,10 @@
     "network": {
         // "interface": "wlp2*", // (Optional) To force the use of this interface
         "format-wifi": "{essid} ({signalStrength}%) ",
-        "format-ethernet": "{ipaddr}/{cidr} ",
-        "tooltip-format": "{ifname} via {gwaddr} ",
-        "format-linked": "{ifname} (No IP) ",
-        "format-disconnected": "Disconnected ⚠",
+        "format-ethernet": "{ipaddr}/{cidr} 󰛳",
+        "tooltip-format": "{ifname} via {gwaddr} 󰛳",
+        "format-linked": "{ifname} (No IP) 󰛳",
+        "format-disconnected": "Disconnected 󰣼",
         "format-alt": "{ifname}: {ipaddr}/{cidr}"
     },
     "pulseaudio": {
