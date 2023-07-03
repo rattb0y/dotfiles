@@ -1,6 +1,6 @@
 #!/bin/bash
 
-entries=" Lock \n⇠ Logout\n⏾ Suspend\n⭮ Reboot\n⏻ Shutdown"
+entries=" Lock\n⇠ Logout\n⏾ Suspend\n⭮ Reboot\n⏻ Shutdown"
 
 selected=$(echo -e $entries|wofi --width 250 --height 210 --dmenu --cache-file /dev/null | awk '{print tolower($2)}')
 
@@ -8,7 +8,7 @@ case $selected in
   lock)
     exec swaylock;;
   logout)
-    swaymsg exit;;
+    exec hyprctl dispatch exit 0;;
   suspend)
     exec systemctl suspend;;
   reboot)
