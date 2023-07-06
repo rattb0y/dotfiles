@@ -6,7 +6,7 @@
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": ["wlr/workspaces", "custom/weather"],
-    "modules-center": ["hyprland/window", "keyboard-state"],
+    "modules-center": ["keyboard-state"],
     "modules-right": ["idle_inhibitor", "pulseaudio", "network", "clock", "tray"],
     // Modules configuration
     "wlr/workspaces": {
@@ -19,11 +19,11 @@
              "2": "",
              "3": "",
              "4": "",
-             "5": "",
+             "5": "",
              "6": "",
-             "7": "7",
+             "7": "",
              "8": "8",
-             "9": "9",
+             "9": "󰓓",
              "urgent": "",
              "focused": "",
              "default": ""
@@ -35,7 +35,7 @@
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
-        "format": "{name} {icon}",
+        "format": "{icon}",
         "format-icons": {
             "locked": "",
             "unlocked": ""
