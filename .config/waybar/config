@@ -6,8 +6,8 @@
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": ["wlr/workspaces", "custom/weather"],
-    "modules-center": ["keyboard-state"],
-    "modules-right": ["idle_inhibitor", "pulseaudio", "network", "clock", "tray"],
+    //"modules-center": ["keyboard-state"],
+    "modules-right": ["keyboard-state", "idle_inhibitor", "pulseaudio", "network", "clock", "tray"],
     // Modules configuration
     "wlr/workspaces": {
          "disable-scroll": true,
@@ -30,10 +30,11 @@
          }
      },
     "hyprland/window": {
-        "format": "{}"
+        "format": "{}",
+        "icon": false
     },
     "keyboard-state": {
-        "numlock": true,
+        //"numlock": true,
         "capslock": true,
         "format": "{icon}",
         "format-icons": {
@@ -180,4 +181,6 @@
         // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name
     }
 }
+
+
 

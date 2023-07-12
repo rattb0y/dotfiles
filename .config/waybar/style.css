@@ -210,7 +210,7 @@ label:focus {
 }
 
 #tray {
-  background-color: #2980b9;
+  background-color: transparent;
 }
 
 #tray > .passive {
@@ -257,7 +257,7 @@ label:focus {
 }
 
 #keyboard-state {
-  background: #97e1ad;
+  background: transparent;
   color: #000000;
   padding: 0 0px;
   margin: 0 5px;
@@ -269,7 +269,7 @@ label:focus {
 }
 
 #keyboard-state > label.locked {
-  background: rgba(0, 0, 0, 0.2);
+  background: #ffffff;
 }
 
 #scratchpad {
