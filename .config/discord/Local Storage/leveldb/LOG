@@ -1,0 +1,8 @@
+2024/02/25-13:58:09.968 7d5 Reusing MANIFEST /home/kris/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/02/25-13:58:09.972 7d5 Recovering log #17
+2024/02/25-13:58:10.067 7d5 Level-0 table #22: started
+2024/02/25-13:58:10.114 7d5 Level-0 table #22: 732318 bytes OK
+2024/02/25-13:58:10.124 7d5 Delete type=0 #17
+2024/02/25-14:00:41.722 95e Level-0 table #25: started
+2024/02/25-14:00:41.741 95e Level-0 table #25: 726445 bytes OK
+2024/02/25-14:00:41.743 95e Delete type=0 #23

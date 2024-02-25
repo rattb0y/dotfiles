@@ -1,0 +1,10 @@
+[ExtractDialog]
+2 screens: Height=560
+2 screens: Width=1120
+2 screens: Window-Maximized=true
+DirHistory[$e]=$HOME/Downloads/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
+detailViewIconSize=16

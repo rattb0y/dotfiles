@@ -1,0 +1,71 @@
+[file:///home/kris/.config/waybar/config]
+Bookmarks=
+Checksum=5cbed226dd76b1b1bda477cfda95840948834538
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,1,24,17,20,0.571
+URL=file:///home/kris/.config/waybar/config
+
+[file:///home/kris/.config/waybar/style.css]
+Bookmarks=
+Checksum=b48b41c41f537558767992493670612bbca14eab
+Encoding=UTF-8
+Highlighting=CSS
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=CSS
+Mode Set By User=false
+Time=2024,1,24,23,25,22.281
+URL=file:///home/kris/.config/waybar/style.css
+
+[file:///home/kris/Downloads/dotfiles-master/.config/waybar/style.css]
+Bookmarks=
+Checksum=b48b41c41f537558767992493670612bbca14eab
+Encoding=UTF-8
+Highlighting=CSS
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=CSS
+Mode Set By User=false
+Time=2024,1,24,23,25,23.763
+URL=file:///home/kris/Downloads/dotfiles-master/.config/waybar/style.css
+
+[file:///home/kris/Nextcloud/computer stuff/dotconfigs/hypr/hyprland.conf]
+Bookmarks=
+Checksum=21179599b7e7608b86680a753cfe7cbda755eb27
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2024,1,24,22,3,40.217
+URL=file:///home/kris/Nextcloud/computer stuff/dotconfigs/hypr/hyprland.conf
+
+[file:///home/kris/Nextcloud/computer stuff/dotconfigs/waybar/config]
+Bookmarks=
+Checksum=d91cdf269b9bb147017f68e601a9c563a4b6fe8c
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,1,24,22,3,38.527
+URL=file:///home/kris/Nextcloud/computer stuff/dotconfigs/waybar/config
+
+[file:///home/kris/Nextcloud/computer stuff/dotconfigs/waybar/style.css]
+Bookmarks=
+Checksum=b48b41c41f537558767992493670612bbca14eab
+Encoding=UTF-8
+Highlighting=CSS
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=CSS
+Mode Set By User=false
+Time=2024,1,24,22,3,36.94
+URL=file:///home/kris/Nextcloud/computer stuff/dotconfigs/waybar/style.css

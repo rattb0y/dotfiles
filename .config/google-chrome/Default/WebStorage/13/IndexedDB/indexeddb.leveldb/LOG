@@ -1,0 +1,15 @@
+2024/02/23-16:30:17.688 273f2 Reusing MANIFEST /home/kris/.config/google-chrome/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/02/23-16:30:17.689 273f2 Recovering log #27
+2024/02/23-16:30:17.689 273f2 Reusing old log /home/kris/.config/google-chrome/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/000027.log 
+2024/02/23-16:30:23.613 273f2 Level-0 table #32: started
+2024/02/23-16:30:23.616 273f2 Level-0 table #32: 30300 bytes OK
+2024/02/23-16:30:23.622 273f2 Delete type=0 #27
+2024/02/23-16:30:23.623 273f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/23-16:30:23.623 273f2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00\x18\x9d~\xdcxB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 2382 : 0
+2024/02/23-16:30:23.624 273f2 Compacting 1@1 + 1@2 files
+2024/02/23-16:30:23.626 273f2 Generated table #33@1: 87 keys, 9886 bytes
+2024/02/23-16:30:23.626 273f2 Compacted 1@1 + 1@2 files => 9886 bytes
+2024/02/23-16:30:23.628 273f2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/23-16:30:23.629 273f2 Delete type=2 #32
+2024/02/23-16:30:23.629 273f2 Delete type=2 #29
+2024/02/23-16:30:23.629 273f2 Manual compaction at level-1 from '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00\x18\x9d~\xdcxB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 2382 : 0 .. (end); will stop at (end)

@@ -1,0 +1,319 @@
+/home/kris/Nextcloud/
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | X-Request-ID
+#=#=#=# Syncrun started 2024-01-24T17:12:07Z
+#=#=#=#=# Propagation starts 2024-01-24T17:12:09Z (last step: 1612 msec, total: 1612 msec)
+||Documents|8|2|1705418891|65a6a08bc840f|0|00000007ocn3c87nr5ci|13||0|0|0||
+||Documents/Cover Letters|8|2|1705418891|65a6a08bc840f|0|00000379ocn3c87nr5ci|13||0|0|0||
+||Documents/Cover Letters/Old Cover Letters|8|2|1698774625|65413e61b7e7f|0|00000384ocn3c87nr5ci|13||0|0|0||
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Aug_14.docx|8|2|1692026007|a0551c0831e1298df6cd5c97e1e1ea33|6222|00013847ocn3c87nr5ci|13||200|0|0|8714b9da-2c58-4b2a-8e49-a4ab9f2cf285|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter.docx|8|2|1685539708|209f49abfdd889607f0a8a6e1de80de3|5891|00000579ocn3c87nr5ci|13||200|0|0|0fed54de-1b14-4736-b8b6-03a4f52d2200|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_June_12.docx|8|2|1686569672|8c54ebe604427348e868bd9bd8ce9fd1|6301|00000571ocn3c87nr5ci|13||200|0|0|e10f6a04-6b10-4856-a30d-70c89125ad10|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Aug_2.docx|8|2|1690984760|a7a1d8febd1f9c727c00ac7f9d57bdd0|6237|00008109ocn3c87nr5ci|13||200|0|0|0cdd0f6e-6276-4e5c-92f5-b8c6f4565636|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_June_15.docx|8|2|1686825082|3ff7dd44307c23a89ac2e04e812171db|6227|00000572ocn3c87nr5ci|13||200|0|0|ad9fb546-2e39-450e-bed0-42e575b2ec27|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_June_17.docx|8|2|1687024288|bf3f8b6ac14a6b3eb4d5c54f589efc85|6236|00000573ocn3c87nr5ci|13||200|0|0|8a5b34d8-0d22-4a19-affd-45b27f957fdf|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_June_5.docx|8|2|1685984494|82abdd04bfdb3e75d4cd500a148abe48|6242|00000574ocn3c87nr5ci|13||200|0|0|a38c2f93-4dd6-43ed-b039-12bc9f0e764e|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_June_9.docx|8|2|1686319972|082a75cc7cac4b0044f735c12ef53143|6232|00000575ocn3c87nr5ci|13||200|0|0|37283498-499b-4a52-be9d-0091192f3d36|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_March.docx|8|2|1685539712|dd0d3838d88a253f8758ac0dfc2f2b0d|6483|00000580ocn3c87nr5ci|13||200|0|0|b922c785-18b9-4840-bbad-9f788feb5257|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_March_.docx|8|2|1685539710|452e1b88e003bb99123cf1797426943c|6485|00000581ocn3c87nr5ci|13||200|0|0|63c8e465-2588-40e4-b35d-05c17371cf0a|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_May_17_2023.docx|8|2|1685539706|0cc7aa263044c1f509617b664bd0225f|6239|00000582ocn3c87nr5ci|13||200|0|0|a9d1348c-6f4b-4e35-a69f-158a3c77d960|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_May_17_2023.pdf|8|2|1685539708|91fb6ff82e104a429d2b674996307216|27774|00000583ocn3c87nr5ci|13||200|0|0|42159da8-1993-41c5-82de-86c0076e03f3|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_May_2023.docx|8|2|1685539712|ec58e0f05007d9a6c3888b379fb5985a|6248|00000584ocn3c87nr5ci|13||200|0|0|8e4e72a7-a2be-4c32-a133-3454c2164322|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_May_2023_roofr.docx|8|2|1685539714|7629e10b9620ff43219f8c59446a70f8|6269|00000585ocn3c87nr5ci|13||200|0|0|42711f82-25c9-4b54-9301-bc7e3963ef99|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_May_23_2023.docx|8|2|1685539714|4abb6317955776c4a254e32939f343dd|6246|00000576ocn3c87nr5ci|13||200|0|0|65411696-af4d-4bb4-b24a-1fe1f93fd1b3|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_May_25_2023.docx|8|2|1685539702|1da27ea99b51e4c27bd726a624c06ce1|6225|00000577ocn3c87nr5ci|13||200|0|0|1a31beec-f527-4cab-8602-90d8c63eb064|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_May_25_2023a.docx|8|2|1685539704|049085d446d8a35d24a4b306b9342e40|6239|00000578ocn3c87nr5ci|13||200|0|0|315fcaeb-e92e-4e9c-b546-e4516719994f|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Oct_16.docx|8|2|1697477560|c61639fdac5da9f85d69a8973010812e|7000|00014076ocn3c87nr5ci|13||200|0|0|d087afc0-a7c2-4d2e-b638-e344539d3d2c|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Oct_23.docx|8|2|1698093340|8f16884c01dbcff60b43ef743901d5e1|7086|00014086ocn3c87nr5ci|13||200|0|0|c73c5ef1-07c6-40d8-b86f-0767e0f1d0cf|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Oct_5.docx|8|2|1696513797|62e261eebedefda617db2fe3a664576c|6991|00014051ocn3c87nr5ci|13||200|0|0|65e1d020-c860-4477-88d3-e290184d1336|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Sept_13.docx|8|2|1694610095|078ae2ab7c76ff72762a34964673584d|6928|00013927ocn3c87nr5ci|13||200|0|0|a3d6402b-462c-4c46-83c8-56db6820dd6c|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Sept_19.docx|8|2|1695141714|83eaad661644b1f9e1fd043ee262e02e|6933|00013935ocn3c87nr5ci|13||200|0|0|339543aa-3ddb-4329-b64f-48ce6a87c040|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Sept_22.docx|8|2|1695402405|7189abc5842089c6069dde4618f77811|6955|00013940ocn3c87nr5ci|13||200|0|0|55c42a9f-32b2-4bde-bca7-15b73444e2e9|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Sept_22.pdf|8|2|1695395155|4c95c12207da2822f61b6f9cf7d56982|31540|00013941ocn3c87nr5ci|13||200|0|0|edf3d26c-2cb6-4515-83c6-7554d66c4b9d|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Sept_24.docx|8|2|1695575738|45b4d615a90f29870e423946a72a236c|7014|00013996ocn3c87nr5ci|13||200|0|0|cc3801a4-c0bc-4f4e-b3ee-172c3945b561|
+17:12:09||Documents/Cover Letters/Old Cover Letters/cover_letter_Sept_29.docx|8|2|1696030115|1575da047a9000f03a30b216a07fdfa3|6995|00014015ocn3c87nr5ci|13||200|0|0|aeadbf40-af4d-4e95-8253-167379767c8f|
+17:12:09||Documents/Cover Letters/cover_letter_Dec_13.docx|8|2|1702500760|e497ed7cee2cdb9360f9abb5eaf8aa1e|7063|00014235ocn3c87nr5ci|13||200|0|0|d05b9c7c-d0aa-4216-b333-3f307b6c3ced|
+17:12:09||Documents/Cover Letters/cover_letter_Dec_14.docx|8|2|1702575565|5b73c33059ed8a36f0317c0d4fbcdcf1|7058|00014237ocn3c87nr5ci|13||200|0|0|1e056846-8587-4246-9a84-4a09c0b21309|
+||Documents/Resumes|8|2|1701959825|6571d891efd1f|0|00000378ocn3c87nr5ci|13||0|0|0||
+||Documents/Resumes/Old Resumes|8|2|1698774562|65413e227f017|0|00000385ocn3c87nr5ci|13||0|0|0||
+17:12:09||Documents/Cover Letters/cover_letter_Oct_25.docx|8|2|1698253035|d0406b099a0475b5647b56bbb71cd375|7001|00014094ocn3c87nr5ci|13||200|0|0|1032d001-8c62-4039-912e-d238fb72f562|
+17:12:09||Documents/Cover Letters/cover_letter_Nov_01.docx|8|2|1701983239|dcc4006310a8bfc9690ca9dc8cf8024e|7083|00014133ocn3c87nr5ci|13||200|0|0|41c59421-1557-4dd3-8088-17c3166f5c89|
+17:12:09||Documents/Cover Letters/cover_letter_cleo.pdf|8|2|1705354315|98c8c3dea8fa148706a602bd17ecd9fa|36811|00014301ocn3c87nr5ci|13||200|0|0|052050a8-b08a-4392-93bb-1ecf5bea4202|
+17:12:09||Documents/Cover Letters/cover_letter_oasw.pdf|8|2|1705418889|9053787d8379ef636c920c366cacc553|30003|00014304ocn3c87nr5ci|13||200|0|0|b6b14ccb-8a58-4423-b445-b08940d2d07e|
+17:12:09||Documents/Cover Letters/linkedIn Message.odt|8|2|1703273462|f2e29c0bc4ba592e4dbdfa041e0b2dbd|11346|00013928ocn3c87nr5ci|13||200|0|0|9c4e7a40-c632-4aa3-9c50-3b240d9699cc|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - May 16 2023.docx|8|2|1685539674|1d82c808476beecfade2d3fdcbb5fcb9|47681|00000594ocn3c87nr5ci|13||200|0|0|d793ebce-a30b-4dec-88fb-bec0c82e5473|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - Dec 2022.docx|8|2|1685539670|39e2a830963ac44cf48c2b1758a3f92c|62816|00000593ocn3c87nr5ci|13||200|0|0|da4023ae-d232-43f1-b6ba-c3b5965c15f5|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - June 2023.docx|8|2|1686650568|916245aee358117dff9a5b9f02b6d838|47704|00000586ocn3c87nr5ci|13||200|0|0|40a420c1-ae49-4a86-8f44-dbf0937482b0|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - Dec 2022.pdf|8|2|1685539670|767fabcce9fd88510d9fad75d9e9fef8|143070|00000595ocn3c87nr5ci|13||200|0|0|9b687e11-c89e-48cd-8761-4b1e2f9e75ce|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - May 16 2023.pdf|8|2|1685539674|324a7f9bade588114987289f732cd51e|73998|00000597ocn3c87nr5ci|13||200|0|0|1e4b8f06-7bf9-40ad-a451-9be94d0e1d4e|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - May 17 2023.docx|8|2|1685539666|e880ca4f842e59d3169a9c7ad08e477c|47684|00000587ocn3c87nr5ci|13||200|0|0|302a6c0b-cf6c-4e5f-a642-ea5535ec0971|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - May 17 2023.pdf|8|2|1685539668|e8dc3fa36576a7d981f3d55541c9e21d|73591|00000589ocn3c87nr5ci|13||200|0|0|7628549d-7f58-4c34-8f8a-82d519e1c02b|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - May 2023.pdf|8|2|1685539672|bd552400ca185249813d7194041df5c0|74968|00000598ocn3c87nr5ci|13||200|0|0|2e86495e-1d27-4795-9fc4-27fb6720be7b|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - May 2023.docx|8|2|1685539672|8cf5a9178bd5131ee8e24f094893b418|47639|00000596ocn3c87nr5ci|13||200|0|0|c160cb31-0222-47a0-ae9d-1e835aded15c|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase - Resume - September 2023.docx|8|2|1695576019|8f4a50aa6baa76efb3a8a541af928a6b|47176|00013997ocn3c87nr5ci|13||200|0|0|0c478d22-f2eb-40d1-8e79-aeae3cb46c9f|
+17:12:09||Documents/Resumes/Old Resumes/Kris Purchase.docx|8|2|1515614890|27da59e190b7f57ea0e13147576dd4ba|13748|00007380ocn3c87nr5ci|13||200|0|0|b7a6c55a-443d-4cad-88e5-243d25d589f5|
+17:12:09||Documents/Resumes/Old Resumes/Resume-Kris-Purchase-July-2023-.pdf|8|2|1688476983|0e7b9e6b8094fe32eb0a9021f61c4450|176284|00003323ocn3c87nr5ci|13||200|0|0|d941fabb-075d-49c8-bba7-6660106f15bc|
+17:12:09||Documents/Resumes/Old Resumes/Kris_Purchase_2018.docx|8|2|1525177234|79abe43853c46e67d360c90131f8738c|13856|00007379ocn3c87nr5ci|13||200|0|0|89574376-ea27-4be9-ad35-a50797cd60a8|
+17:12:09||Documents/Resumes/Old Resumes/Resume-Kris-Purchase-July-2023.pdf|8|2|1688476556|95dff8924316b8643c42c3ccee74cd22|175028|00004401ocn3c87nr5ci|13||200|0|0|24014f6e-64d8-4ac5-8121-2752cdf69b0d|
+17:12:09||Documents/Resumes/Old Resumes/Resume-Kris-Purchase.pdf|8|2|1688471410|96f3918b36ce4e5b8d2461af242c25ed|174193|00004402ocn3c87nr5ci|13||200|0|0|4d0c4253-f5c0-46d1-9859-4aea2d1e1700|
+||Documents/backup codes|8|2|1691675432|64d4eb280e7b1|0|00000380ocn3c87nr5ci|13||0|0|0||
+17:12:09||Documents/Resumes/Kris Purchase - Resume - November 2023.docx|8|2|1699896756|6e06ac0dfce0fe89c0a8bb5f30abffa8|10820|00014185ocn3c87nr5ci|13||200|0|0|c4ac54fd-cae5-4f0d-8644-c52fdc979c7a|
+17:12:09||Documents/Resumes/Kris Purchase - Resume - November 2023.pdf|8|2|1701959823|ec8540f56b3186238fb74385ac20344d|69349|00014217ocn3c87nr5ci|13||200|0|0|7ecd072d-cff3-4117-aeb9-8ec101dde206|
+17:12:09||Documents/backup codes/1Password Emergency Kit A3-9RZWSZ-my.pdf|8|2|1691178221|a32998f98a1205f917c45e358474effe|46356|00013820ocn3c87nr5ci|13||200|0|0|984b8be3-584f-45eb-8cd8-216d27782164|
+17:12:09||Documents/Resumes/Resume-Kris-Purchase.pdf|8|2|1695395387|f2b8776916b199b031c079c4499ae4b1|171269|00014125ocn3c87nr5ci|13||200|0|0|76b8fb50-0d4a-41f7-9536-1f24a594c00c|
+17:12:09||Documents/backup codes/Backup-codes-kris.purchase.txt|8|2|1679183938|6655640842adf142c264bbacdce62c5e|383|00000588ocn3c87nr5ci|13||200|0|0|23b448d7-8561-413f-8c31-9ec6e715e35e|
+||Documents/computer Stuff|8|2|1691675431|64d4eb27f202b|0|00013817ocn3c87nr5ci|13||0|0|0||
+17:12:09||Documents/backup codes/kris.purchase_skiff_recovery_key.pdf|8|2|1679429674|4b137c27c247f0d1992cc860f8c4101f|77249|00000591ocn3c87nr5ci|13||200|0|0|2b5b53b2-b90c-4ed1-bc34-e8f0d3450cc1|
+17:12:09||Documents/backup codes/noip.docx|8|2|1688489604|c2b72ffc5629d3ddac95b43962d3fdcc|4839|00003340ocn3c87nr5ci|13||200|0|0|0609d459-369d-402b-95d6-91a862569a37|
+17:12:09||Documents/backup codes/wazuh.odt|8|2|1689957738|8915126bbd9a4abc2a977d5563787466|24985|00007969ocn3c87nr5ci|13||200|0|0|d7b92c95-a99e-4768-be32-490ccb3541c2|
+17:12:09||Documents/backup codes/proton_recovery_codes.txt|8|2|1679419253|249f373c98c58c6f266914506fd0ff3d|158|00000590ocn3c87nr5ci|13||200|0|0|b89de3f8-7e96-4ffc-ad29-1b15d2ea51f7|
+17:12:09||Documents/backup codes/proton_recovery_phrase.txt|8|2|1679419582|0a549746a562ce73d1683352b2eabe86|76|00000592ocn3c87nr5ci|13||200|0|0|66b86b3b-7572-4429-853e-c87d842a3332|
+17:12:09||Documents/computer Stuff/Git Bare Repository info.odt|8|2|1691238867|a44b3d4abffda3541f4b8bef714b1eeb|13124|00013818ocn3c87nr5ci|13||200|0|0|ddb96bcc-d253-471b-b8a0-3e30207dfa08|
+||Notes|8|2|1688472546|64a40be21865e|0|00000383ocn3c87nr5ci|13||0|0|0||
+||Recipes|8|2|1690915967|64c9547f270a6|0|00008104ocn3c87nr5ci|13||0|0|0||
+17:12:09||Documents/computer Stuff/i3 Key bindings.odt|8|2|1691675287|4bbb14bfa8ded88dab954624ff6b253b|29801|00013819ocn3c87nr5ci|13||200|0|0|8f66018f-f14e-4f12-929f-2646702fe632|
+||computer stuff|8|2|1706110890|65b12fab0a653|0|00000331ocn3c87nr5ci|13||0|0|0||
+17:12:09||Documents/Gel.odt|8|2|1698059719|c4e57dcd4ed7c04ce487c62cf7677767|14291|00014084ocn3c87nr5ci|13||200|0|0|9d7c3551-f9b2-4473-b65d-5c025242975f|
+||computer stuff/dotconfigs|8|2|1706110890|65b12fab0a653|0|00014315ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/Pictures|8|2|1706110890|65b12fab0a653|0|00014384ocn3c87nr5ci|13||0|0|0||
+17:12:09||Documents/list|8|2|1686739558|e4f4890def3289495507f17b018db9ab|357|00002712ocn3c87nr5ci|13||200|0|0|10da4f96-b7e8-44ee-a784-e92a49430fd8|
+17:12:09||Documents/onboarding role - Jobber.docx|8|2|1695842185|f8b6a89f2aee605faa927c40ac9becd0|10146|00014009ocn3c87nr5ci|13||200|0|0|f2336e5f-4bba-46d4-b67c-98079594d1de|
+17:12:09||Documents/wazuh.odt|8|2|1689958325|98681d4dd88b9aa5702f166586897ac6|25144|00007970ocn3c87nr5ci|13||200|0|0|6c72f20f-d351-4054-a478-b1aaf5eab1f9|
+||computer stuff/dotconfigs/Thunar|8|2|1706110730|65b12f0a10aeb|0|00014373ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/Pictures/fg_profile_pic.jpg|8|2|1687192692|8398fc8eef9400518151cbc5cedb9e0a|22043|00014385ocn3c87nr5ci|13||200|0|0|b5218f93-4910-4398-92e3-be51529e718f|
+17:12:10||computer stuff/dotconfigs/Pictures/anger.jpg|8|2|1687192383|0b98a702ea56d4d6d34c2dcb9b3f4466|60373|00014386ocn3c87nr5ci|13||200|0|0|de43084b-5b05-4316-93ac-e513e596d3f6|
+17:12:10||computer stuff/dotconfigs/Pictures/me.jpeg|8|2|1687118985|4b009decbd99af34d4058983af7b4813|9866|00014387ocn3c87nr5ci|13||200|0|0|992dc3e8-cbed-4569-b3cf-3bf636fceed0|
+||computer stuff/dotconfigs/dmenu|8|2|1706110692|65b12ee50941f|0|00014343ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/dmenu/scripts|8|2|1706110692|65b12ee50941f|0|00014344ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/Pictures/gundam.jpg|8|2|1687185715|aabb03bf949b569855444c3bc9de6a61|210676|00014388ocn3c87nr5ci|13||200|0|0|d5919bb0-48c5-4a2b-be4b-b41a6a268cee|
+17:12:10||computer stuff/dotconfigs/Thunar/accels.scm|8|2|1689187641|ba2137e63dabf5bb32fd8e164ae043a9|9122|00014374ocn3c87nr5ci|13||200|0|0|0c711a59-2246-4d34-8644-e6226b79dad5|
+||computer stuff/dotconfigs/fish|8|2|1706110614|65b12e9637641|0|00014327ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/fish/completions|8|2|1706110613|65b12e95c4134|0|00014328ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/fish/conf.d|8|2|1706110613|65b12e95d05e8|0|00014330ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/fish/functions|8|2|1706110613|65b12e95cf7b5|0|00014329ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/Thunar/uca.xml|8|2|1689340463|961c557c72af516020f4f908250c0df4|446|00014375ocn3c87nr5ci|13||200|0|0|7d5cfc68-19e7-4b4c-bd93-2c4b3a54f9ff|
+||computer stuff/dotconfigs/hypr|8|2|1706110603|65b12e8b33728|0|00014316ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/hypr/scripts|8|2|1706110603|65b12e8b33728|0|00014317ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/dmenu/scripts/dmen.sh|8|2|1687344312|418912c8d0c9f1a10aecf0479da35542|133|00014345ocn3c87nr5ci|13||200|0|0|9b5b5181-4e47-45d1-9892-7b7552d850aa|
+17:12:10||computer stuff/dotconfigs/fish/config.fish|8|2|1687442952|a9b3835f01e11cb775b68ca39053f1cd|2403|00014331ocn3c87nr5ci|13||200|0|0|2b8999af-b04e-4328-9da3-58ae90f2238b|
+17:12:10||computer stuff/dotconfigs/fish/fish_variables|8|2|1706046399|841850d496168915981e645928f04cb8|1493|00014332ocn3c87nr5ci|13||200|0|0|f4313899-960c-4d39-887e-95367ed76eae|
+17:12:10||computer stuff/dotconfigs/hypr/scripts/Wofi.sh|8|2|1688152881|ff7a026548046d4505e6b822fcf77981|263|00014320ocn3c87nr5ci|13||200|0|0|63f63b03-bf09-4cad-9123-deef11af6ca4|
+17:12:10||computer stuff/dotconfigs/hypr/scripts/WofiBig.sh|8|2|1688153155|6b9ff45f5c385464c65fece97ff6b4e8|271|00014321ocn3c87nr5ci|13||200|0|0|dfbf5c09-c42e-4692-b504-1e3ad45160af|
+17:12:10||computer stuff/dotconfigs/hypr/scripts/auto-wall.sh|8|2|1688391438|791a3d79488da6dc995d153647aed47b|199|00014322ocn3c87nr5ci|13||200|0|0|adc5cf25-98f4-4f77-a011-100725c3ae93|
+17:12:10||computer stuff/dotconfigs/hypr/scripts/changeWallpaper2|8|2|1688145376|3170cd43eef40bda94f8330631398895|302|00014323ocn3c87nr5ci|13||200|0|0|89849948-192c-4938-9e4c-e47aaca779ca|
+17:12:10||computer stuff/dotconfigs/hypr/scripts/powermenu.sh|8|2|1688154660|f6c5633d2630d185b387b4aaeafe10e4|410|00014324ocn3c87nr5ci|13||200|0|0|495ebd1d-e5a7-485f-bdc4-9c1af0b96f54|
+||computer stuff/dotconfigs/i3|8|2|1706110652|65b12ebce67da|0|00014335ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/hypr/scripts/swww_randomize.sh|8|2|1688380908|6840e06cde7730bd0c0378c10c4ba710|729|00014325ocn3c87nr5ci|13||200|0|0|bf110ffb-74f0-49e8-9804-4b8dad88ee02|
+||computer stuff/dotconfigs/neofetch|8|2|1706110637|65b12eadbe2d7|0|00014333ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/hypr/scripts/wofi-power.sh|8|2|1688382136|c0e100a8d90bd79a2123484e03b2e08b|422|00014326ocn3c87nr5ci|13||200|0|0|8f56abc9-2e87-49e9-8798-91066eb210e3|
+||computer stuff/dotconfigs/nvim|8|2|1706110711|65b12ef75f5f7|0|00014346ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/nvim/lua|8|2|1706110711|65b12ef75f5f7|0|00014347ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/nvim/lua/kris|8|2|1706110711|65b12ef75f5f7|0|00014349ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/hypr/hyprland.conf|8|2|1704553251|1510afbe5f5f691b3b88e073490cf514|5642|00014318ocn3c87nr5ci|13||200|0|0|39c48284-46b7-4c21-bd36-249aedb48364|
+||computer stuff/dotconfigs/nvim/lua/kris/core|8|2|1706110710|65b12ef66683f|0|00014350ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/hypr/xdg-portal-hyprland|8|2|1688392368|e63d7d3c1c7881682fa3ca1d049f8ca3|199|00014319ocn3c87nr5ci|13||200|0|0|acd30b0f-d43b-439e-aba1-580fe66b0d47|
+17:12:10||computer stuff/dotconfigs/i3/config.save|8|2|1688153396|410138dfb108c076c3cfbee0efdd6f02|6565|00014337ocn3c87nr5ci|13||200|0|0|8953988d-251f-4280-a320-1435a0059519|
+17:12:10||computer stuff/dotconfigs/i3/config|8|2|1688298944|85b7e89b324fc5415ec5fedea56396bc|6566|00014336ocn3c87nr5ci|13||200|0|0|24449228-a409-4640-ae8b-a89380b7a275|
+||computer stuff/dotconfigs/nvim/lua/kris/plugins|8|2|1706110711|65b12ef75f5f7|0|00014351ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/nvim/lua/kris/plugins/lsp|8|2|1706110710|65b12ef6c2be1|0|00014352ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/neofetch/config.conf|8|2|1686841959|410cd19eadcd16b1eab280af06f22179|18131|00014334ocn3c87nr5ci|13||200|0|0|c186411f-b7ef-4e66-972d-7094872b3c0f|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/core/keymaps.lua|8|2|1688298324|2a7eda10d3b22434329f966cde690558|2688|00014358ocn3c87nr5ci|13||200|0|0|bc58a71d-d1c2-4cce-a493-c68074c9732d|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/core/colorscheme.lua|8|2|1688298324|fb501d910163b391da2e99f2097291cc|248|00014357ocn3c87nr5ci|13||200|0|0|450c1c0f-b676-4027-8af2-6f9d8f40b939|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/core/options.lua|8|2|1688298324|7ef674220c5b2f81194bf72f608f677d|1491|00014359ocn3c87nr5ci|13||200|0|0|38163ba5-34f0-40b6-b54e-cf5551593b2b|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/lsp/lspsaga.lua|8|2|1688298324|ef6e011470bf91fbd3ace22fae7057d8|403|00014362ocn3c87nr5ci|13||200|0|0|25e530e4-6080-4850-ae56-a1a2bb281232|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/lsp/lspconfig.lua|8|2|1688298324|8e02d0f5be9fedff2014f491860fca12|4064|00014361ocn3c87nr5ci|13||200|0|0|7ab24c27-1723-40fa-ac4c-3aff1e210157|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/lsp/mason.lua|8|2|1688298324|4f9f945de60245aa519b67efa9dee5a6|1099|00014363ocn3c87nr5ci|13||200|0|0|9a2270a0-a4b6-49e1-971c-5873b06f5944|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/lsp/null-ls.lua|8|2|1688298324|fc41aa05e5cf63b1f50f8e21c0c554cd|1567|00014364ocn3c87nr5ci|13||200|0|0|cab327b4-4f00-400d-861b-c3d3ea1f5b30|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/autopairs.lua|8|2|1688298324|85846b55831d8388cdd94c27c0c61d16|917|00014365ocn3c87nr5ci|13||200|0|0|a24f2479-4818-49be-9d74-670dbfee9702|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/comment.lua|8|2|1688298324|ada3076ddb34a8dfc34a3bbf103e48ba|147|00014366ocn3c87nr5ci|13||200|0|0|72f56c9d-3217-4f4c-8312-905c39da5aa2|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/gitsigns.lua|8|2|1688298324|9890ce47827908dcefb9f198b77241d0|162|00014367ocn3c87nr5ci|13||200|0|0|801dd66f-d658-4c52-96f0-d84b954ce177|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/nvim-cmp.lua|8|2|1688298324|214be3d793b5f8b28c803a79baead893|1522|00014369ocn3c87nr5ci|13||200|0|0|1f5128d0-9ab8-4c73-8779-9ba88ad2fb06|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/lualine.lua|8|2|1688298324|89473c2934c6811bc87628cd02e3dc88|772|00014368ocn3c87nr5ci|13||200|0|0|e26b0b3e-f858-49d4-ba56-c3a14d3da6a4|
+||computer stuff/dotconfigs/nvim/plugin|8|2|1706110710|65b12ef62f05f|0|00014348ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/nvim-tree.lua|8|2|1688298324|dc92456f26f94e74fad43645af344d9d|1379|00014370ocn3c87nr5ci|13||200|0|0|8b27be92-dd27-498b-8a4d-db2008011455|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/telescope.lua|8|2|1688298324|e591964e68774278ab4fa45801671bd8|710|00014371ocn3c87nr5ci|13||200|0|0|f6eb3215-98ab-4f60-a246-6e3a33986355|
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins/treesitter.lua|8|2|1688298324|f19ef87daf03fab174ce6705929ac90e|769|00014372ocn3c87nr5ci|13||200|0|0|79d22bdf-3944-4064-a517-36a7c3610938|
+||computer stuff/dotconfigs/waybar|8|2|1706110666|65b12ecaa6582|0|00014338ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/nvim/lua/kris/plugins-setup.lua|8|2|1688298324|272c49b08410871912ba68fb99e18b78|3765|00014360ocn3c87nr5ci|13||200|0|0|05b11105-2d26-4656-bb82-53a336c94148|
+||computer stuff/dotconfigs/waybar/scripts|8|2|1706110666|65b12ecaa6582|0|00014339ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/nvim/plugin/packer_compiled.lua|8|2|1688298641|09215140dedbc52df01a22eb7ef6f1fd|9319|00014356ocn3c87nr5ci|13||200|0|0|6ce0f5ab-750f-400b-9d1a-58f4dc196139|
+17:12:10||computer stuff/dotconfigs/nvim/.gitignore|8|2|1688298324|8c91eada04851415c221f4647207303b|353|00014353ocn3c87nr5ci|13||200|0|0|02dddbcc-cdc2-43a6-b8d6-658cd9e326cc|
+17:12:10||computer stuff/dotconfigs/nvim/.stylua.toml|8|2|1688298324|452055d0bed801d18171528882e80a6f|40|00014354ocn3c87nr5ci|13||200|0|0|d8b8b4a3-9de7-4fe6-97c9-757016b0136f|
+||computer stuff/dotconfigs/wofi|8|2|1706110743|65b12f17c5dde|0|00014376ocn3c87nr5ci|13||0|0|0||
+||computer stuff/dotconfigs/wofi/WofiBig|8|2|1706110743|65b12f17b49db|0|00014377ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/nvim/init.lua|8|2|1688298522|b736d40e9ac24e2fe519fb490fc56181|532|00014355ocn3c87nr5ci|13||200|0|0|8a70d16f-6aa0-40a4-92a2-f499ad374a11|
+||computer stuff/dotconfigs/wofi/scripts|8|2|1706110743|65b12f17c5dde|0|00014378ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/waybar/config|8|2|1696441074|8e9080365a2f4ea2b9d10ce1fb75f0e7|3559|00014340ocn3c87nr5ci|13||200|0|0|b291ee60-d588-49be-ade5-08a45483b3a2|
+17:12:10||computer stuff/dotconfigs/waybar/scripts/waybar-wttr.py|8|2|1688320031|938ee93d2503bad2b4dc9de4ce421557|3316|00014342ocn3c87nr5ci|13||200|0|0|3ecf2e1d-5720-45ec-80a2-7c241e7a1e78|
+17:12:10||computer stuff/dotconfigs/waybar/style.css|8|2|1689157373|e305329df87e9a5bc853cd2a48f4840b|4327|00014341ocn3c87nr5ci|13||200|0|0|32583b92-e1e6-4461-aa1c-e84a3a056ec2|
+||computer stuff/linux|8|2|1699112550|654666664311e|0|00000332ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/wofi/WofiBig/config|8|2|1688152709|b48548c034404c7cce015bfc2c6356cc|501|00014382ocn3c87nr5ci|13||200|0|0|e390495a-a8f0-4e29-8f8a-252621fa5527|
+||computer stuff/linux/Applications|8|2|1699112536|65466658ab735|0|00004194ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/wofi/scripts/wofi-power.sh|8|2|1688321004|326342828b8cb89607d6422cff9edcd0|382|00014383ocn3c87nr5ci|13||200|0|0|3951e8e1-1808-434d-997b-596ae0da90df|
+17:12:10||computer stuff/dotconfigs/wofi/colors|8|2|1688152606|cfbe4674bed797f1ad6b163f221d1629|48|00014379ocn3c87nr5ci|13||200|0|0|2eb45bfd-5451-46f7-a160-7caedfa47a98|
+||computer stuff/linux/Applications/.trash|8|2|1688761237|64a873951bd11|0|00004195ocn3c87nr5ci|13||0|0|0||
+17:12:10||computer stuff/dotconfigs/wofi/config|8|2|1688152538|6a9b65c63017b15a940b1b1d886dfc0b|498|00014380ocn3c87nr5ci|13||200|0|0|d240aaeb-b464-4dd3-abf8-6f1c6920a2a0|
+17:12:10||computer stuff/dotconfigs/wofi/style.css|8|2|1688152577|98eda7a957a9c34b3cbcc6c0e1984ebc|970|00014381ocn3c87nr5ci|13||200|0|0|1d2e8640-3a06-4d78-a154-18ce29f5b465|
+17:12:10||computer stuff/linux/Applications/Nextcloud-3.8.2-x86_64.AppImage|8|2|1686507154|2f44b755cec4045b97dc736f3c0f0071|148395200|00000355ocn3c87nr5ci|13||200|0|0|2f7dcf28-cc61-4f93-aab1-450a0f69aa34|
+17:12:10||computer stuff/linux/Applications/Nextcloud-3.10.1-x86_64.AppImage|8|2|1698775261|42fa7f8cbc9673bf4c7525c46aec38e7|148452544|00014167ocn3c87nr5ci|13||200|0|0|4c185043-0752-4d2e-86d0-c092aac7de21|
+17:12:10||computer stuff/linux/Applications/Nextcloud-3.10.0-x86_64.AppImage|8|2|1695497208|f977391bf26dbc7b5c1e77713ffe972c|148468928|00013995ocn3c87nr5ci|13||200|0|0|d369a691-a432-486e-b747-615eea6147c7|
+17:12:15||computer stuff/linux/Applications/Nextcloud-3.9.1-x86_64_3f2fe81116752503d9264a6d382e0500.AppImage|8|2|1690377075|2c52207242e579e0aee1043bbe38cbb6|148604096|00014162ocn3c87nr5ci|13||200|0|0|6348860a-56aa-4252-8a1d-a0e223185b9c|
+17:12:15||computer stuff/linux/Applications/Nextcloud-3.9.3-x86_64.AppImage|8|2|1693771720|3fa273456626a6893ac1c741e9f13e9c|148645056|00014161ocn3c87nr5ci|13||200|0|0|95c51086-dc66-46b7-bbf5-00506f39d346|
+17:12:15||computer stuff/linux/Applications/Nextcloud-3.9.0-x86_64.AppImage|8|2|1686744581|9d381df803ee31dd48e1dfa936deecc8|148473024|00004205ocn3c87nr5ci|13||200|0|0|fde56a7e-b7c5-4115-b338-779586a3a3ec|
+17:12:19||computer stuff/linux/Applications/yuzu-mainline-20230707-d6a9ed32e.AppImage|8|2|1688739508|b7127b56a721e1692104029302175851|64918720|00004201ocn3c87nr5ci|13||200|0|0|8a37ced6-f12a-4f1b-bc53-279ef77b5246|
+||computer stuff/linux/Linux_terminal_color|8|2|1688472539|64a40bdb276a2|0|00000334ocn3c87nr5ci|13||0|0|0||
+17:12:21||computer stuff/linux/Linux_terminal_color/.bashrc|8|2|1482940984|0218ef69922fb0be840ba19a942a36e3|1346|00000356ocn3c87nr5ci|13||200|0|0|04a8dbb7-7583-421c-b5fe-eb31d714e31a|
+17:12:21||computer stuff/linux/Linux_terminal_color/DIR_COLORS|8|2|1482940984|7200f22a112702530b4f8efdba75ebc8|2353|00000357ocn3c87nr5ci|13||200|0|0|a5effb0e-3dfc-47c5-9a72-604d238a4952|
+||computer stuff/linux/Scripts|8|2|1688761639|64a87527dc555|0|00000336ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/i3-2-sxhkd|8|2|1688472539|64a40bdb4f681|0|00000341ocn3c87nr5ci|13||0|0|0||
+17:12:21||computer stuff/linux/Linux_terminal_color/bash.bashrc|8|2|1482940984|1917aef27171361acf3fa34e94b399b0|4343|00000358ocn3c87nr5ci|13||200|0|0|239dfa8d-97c0-4d2c-8996-8826045a6a9d|
+17:12:21||computer stuff/linux/Scripts/i3-2-sxhkd/config|8|2|1687012348|4ad7d7019b06baf136805bdb47dfcbff|7186|00000359ocn3c87nr5ci|13||200|0|0|2b13c22f-d1c6-4c67-9962-0a253a9b1a9f|
+||computer stuff/linux/Scripts/wallpaper-switcher|8|2|1688761634|64a87522918f5|0|00004270ocn3c87nr5ci|13||0|0|0||
+17:12:21||computer stuff/linux/Scripts/i3-2-sxhkd/i3-2-sxhkd|8|2|1687115259|3781e022c444e6b1d84af18cdb837ce8|551|00000360ocn3c87nr5ci|13||200|0|0|e20a5d9c-490a-4e0b-b608-f773fdbda7bd|
+||computer stuff/linux/Scripts/wallpaper-switcher/.git|8|2|1688761633|64a87521ea1d5|0|00004271ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/branches|8|2|1688761629|64a8751dd1437|0|00004274ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks|8|2|1688761632|64a875209043f|0|00004275ocn3c87nr5ci|13||0|0|0||
+17:12:22||computer stuff/linux/Scripts/i3-2-sxhkd/sxhkdrc|8|2|1687115455|c234e0bd4597d5e464c3cee9de76dfa5|6685|00000361ocn3c87nr5ci|13||200|0|0|481d3cd9-d35d-4efa-9ea8-0f73752f1a09|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/applypatch-msg.sample|8|2|1688151499|3d146559aca02a1a8b5792cc6bb92292|478|00004302ocn3c87nr5ci|13||200|0|0|c6aac6e1-9166-4591-b3b2-d53331262596|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/commit-msg.sample|8|2|1688151499|90a053d5a5f3a138e4876419c559f514|896|00004303ocn3c87nr5ci|13||200|0|0|0afedf43-2e4d-4a24-9fee-2477ddb855b9|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/fsmonitor-watchman.sample|8|2|1688151499|5f06e81d121b75d506e45549a4c97ccc|4726|00004305ocn3c87nr5ci|13||200|0|0|25dc4a05-90c5-426b-b463-1aadf99b6218|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/post-update.sample|8|2|1688151499|4f2683589e3215906eed00f5f38c8b9a|189|00004306ocn3c87nr5ci|13||200|0|0|90da145d-41fd-44ee-8511-acd6b5e203fe|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/pre-applypatch.sample|8|2|1688151499|bde1b18b98f253f821bb469fd4ca2334|424|00004307ocn3c87nr5ci|13||200|0|0|b2e9a5ad-8f63-4b35-9bb1-9317ebbd52a0|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/pre-commit.sample|8|2|1688151499|e92e1380297e02d55603c954b7401662|1643|00004309ocn3c87nr5ci|13||200|0|0|b7d7c4a6-64e1-4cd7-b348-1228d25c1bc7|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/pre-merge-commit.sample|8|2|1688151499|f8c50c55cf831430cedf171a82776a9a|416|00004308ocn3c87nr5ci|13||200|0|0|b307380d-28ce-409f-9321-517761326610|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/pre-push.sample|8|2|1688151499|3d98614a39017178fb7cf5ab2a3d2973|1374|00004310ocn3c87nr5ci|13||200|0|0|b056a4b1-8368-4941-94bf-e0c16ccd683d|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/pre-rebase.sample|8|2|1688151499|dfada85b7102118ce7f1aabc1c52720a|4898|00004312ocn3c87nr5ci|13||200|0|0|61f0e1b7-e206-4571-bacf-0015e8fa674c|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/pre-receive.sample|8|2|1688151499|4af0742edd81d41d4fbdf466373845c1|544|00004311ocn3c87nr5ci|13||200|0|0|cc83d84f-de2c-468b-ba5b-a900032c77f4|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/prepare-commit-msg.sample|8|2|1688151499|03e876c7796093ff67ebc3c1f95b2720|1492|00004314ocn3c87nr5ci|13||200|0|0|65b3f2bd-bedf-43e1-81cb-2b311334e324|
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/info|8|2|1688761632|64a87520a223d|0|00004276ocn3c87nr5ci|13||0|0|0||
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/push-to-checkout.sample|8|2|1688151499|797a766845b01679feaeb4cbed458022|2783|00004313ocn3c87nr5ci|13||200|0|0|2922cad3-e0d6-46cc-839f-306961acf9fa|
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/logs|8|2|1688761633|64a87521d7f83|0|00004277ocn3c87nr5ci|13||0|0|0||
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/sendemail-validate.sample|8|2|1688151499|7080186a4bde8dd3820e82ef4104a3c3|2308|00004315ocn3c87nr5ci|13||200|0|0|a8fd83a8-dc8a-452d-87a1-1d7cea167648|
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/logs/refs|8|2|1688761633|64a87521d7f83|0|00004281ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/logs/refs/heads|8|2|1688761633|64a87521c4d33|0|00004285ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/logs/refs/remotes|8|2|1688761633|64a87521d7f83|0|00004286ocn3c87nr5ci|13||0|0|0||
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/hooks/update.sample|8|2|1688151499|0b9f08989c146d786f72ced30ac7a65c|3650|00004316ocn3c87nr5ci|13||200|0|0|e51c7a6b-5237-47b8-a1d6-2ffa1e7ee309|
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/logs/refs/remotes/origin|8|2|1688761633|64a87521d7f83|0|00004290ocn3c87nr5ci|13||0|0|0||
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/info/exclude|8|2|1688151499|7ea5c1f14f2a7dc0e62f2a5e674560d7|240|00004317ocn3c87nr5ci|13||200|0|0|69e5ea1f-bbe8-4ba7-b692-4bcfcf6b6659|
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/objects|8|2|1688761633|64a87521a2cfe|0|00004278ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/objects/info|8|2|1688761630|64a8751e378d5|0|00004282ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/objects/pack|8|2|1688761633|64a87521a2cfe|0|00004283ocn3c87nr5ci|13||0|0|0||
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/logs/refs/heads/main|8|2|1688151500|a43459eeed6af859b2ec90d6b8dd9922|193|00004333ocn3c87nr5ci|13||200|0|0|27b36b51-f3e7-4611-bb36-5f4b4777d7c7|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/logs/refs/remotes/origin/HEAD|8|2|1688151500|cf2ff35278e6ceeb68c039d2b8e095be|193|00004334ocn3c87nr5ci|13||200|0|0|bf75647b-8d60-4bbf-9baf-50803093bd22|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/logs/HEAD|8|2|1688151500|bdb5347aa211843c64759887e99e9759|193|00004329ocn3c87nr5ci|13||200|0|0|60a09109-a38e-429e-abac-17d53fe76ae0|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/objects/pack/pack-bb480ccd3dd6b2f8f068447b1b586fb9cc21d913.idx|8|2|1688151500|9b2f1966fb994ba016971f143089cfc7|4208|00004330ocn3c87nr5ci|13||200|0|0|b4db7896-806f-461b-b206-54656aad02ee|
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/refs|8|2|1688761633|64a87521ea1d5|0|00004279ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/refs/heads|8|2|1688761633|64a87521b2769|0|00004284ocn3c87nr5ci|13||0|0|0||
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/objects/pack/pack-bb480ccd3dd6b2f8f068447b1b586fb9cc21d913.rev|8|2|1688151500|d122962142a875ff981d8db63adff1c1|500|00004331ocn3c87nr5ci|13||200|0|0|792ef023-2efc-4471-b589-c5872d04d2ac|
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/refs/remotes|8|2|1688761633|64a87521ea1d5|0|00004287ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/refs/remotes/origin|8|2|1688761633|64a87521ea1d5|0|00004292ocn3c87nr5ci|13||0|0|0||
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/refs/heads/main|8|2|1688151500|d8ec5baff280377a7c408fe5592c5697|41|00004332ocn3c87nr5ci|13||200|0|0|a328e806-66c4-4423-a3d5-473269df7f24|
+||computer stuff/linux/Scripts/wallpaper-switcher/.git/refs/tags|8|2|1688761630|64a8751e78736|0|00004288ocn3c87nr5ci|13||0|0|0||
+17:12:19||computer stuff/linux/Applications/balenaEtcher-1.18.4-x64_55c91cd6bd9c5e76ba286c5536cca86d.AppImage|8|2|1686926002|55dc4bb3c3c965bce345cba13405aa4b|99670655|00004203ocn3c87nr5ci|13||200|0|0|3ee4a8af-9243-4356-958e-19f3743d442f|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/refs/remotes/origin/HEAD|8|2|1688151500|7ff7df376d65f7642cefce612b4516c4|30|00004335ocn3c87nr5ci|13||200|0|0|2ecc3ec8-7e8f-47d6-b8f2-748d294a8704|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/HEAD|8|2|1688151500|282cd96b8341de4c5e02bd491c42d2a4|21|00004318ocn3c87nr5ci|13||200|0|0|49409350-8a33-4314-9d3b-0b6816a15162|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/config|8|2|1688151500|ca6129828bc24ff6dbe61907bf1b019b|271|00004319ocn3c87nr5ci|13||200|0|0|19ec9e2d-a6d0-41df-b55d-9b90e16fe4e0|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/description|8|2|1688151499|548a8bb04017ebac9be916337fbe3e7e|73|00004321ocn3c87nr5ci|13||200|0|0|6d872edb-91be-463e-8081-ef42bfd0c2dc|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/index|8|2|1688151500|4c749b5c94a7c81dcfc8f6d2cb4616c4|2148|00004320ocn3c87nr5ci|13||200|0|0|8227b567-e5b8-4323-9db0-233edb315192|
+||computer stuff/linux/Scripts/wallpaper-switcher/scripts|8|2|1688761634|64a87522918f5|0|00004272ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers|8|2|1688761634|64a87522918f5|0|00004280ocn3c87nr5ci|13||0|0|0||
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/packed-refs|8|2|1688151500|5b7472e086cea00b496f96a4fc07da49|112|00004322ocn3c87nr5ci|13||200|0|0|318d95e7-7749-498d-ac78-96c69da3df38|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/cityscape.jpg|8|2|1688151500|8a98c991e222f36d296bcfa9beafb744|1311002|00004289ocn3c87nr5ci|13||200|0|0|fba5b2e1-60d0-4b1b-8136-6b0d1ff496c4|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/cityscape2.jpg|8|2|1688151500|48f7cb74b38a7b05a07b2e0787f26449|3078115|00004293ocn3c87nr5ci|13||200|0|0|5a2f29fc-2931-47da-ab99-22a2fa3d9c88|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/cracked-screen.jpg|8|2|1688151500|555f62a53312718debc0845f8122cd3b|34829|00004336ocn3c87nr5ci|13||200|0|0|0ce1b8b2-f61d-468a-ae07-33235570e55f|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/colorful-snow.jpg|8|2|1688151500|79cc8d9fdb116dbaf90008c768e51d3d|454579|00004337ocn3c87nr5ci|13||200|0|0|bf431c2a-75b0-4284-b780-4b0ca8055b74|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/hong-kong.jpg|8|2|1688151500|96d6cdc754307f2b686d8347e28570b2|454012|00004338ocn3c87nr5ci|13||200|0|0|b0ec19af-c2ba-48ee-abf3-75a0c493c932|
+17:12:22||computer stuff/linux/Scripts/wallpaper-switcher/.git/objects/pack/pack-bb480ccd3dd6b2f8f068447b1b586fb9cc21d913.pack|8|2|1688151500|d148c91c5f15bbce6bcf19cdc4607b79|28495667|00004301ocn3c87nr5ci|13||200|0|0|683eb384-26da-4a7d-9507-6d93e2ca05c7|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/lain.jpg|8|2|1688151500|fc4ef469a902e305e20392a780f48205|2383097|00004296ocn3c87nr5ci|13||200|0|0|1e88a7f7-f388-4821-82a3-58725695f0fc|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/into-the-night.jpg|8|2|1688151500|e28336e48b65c15a4d6e5cf93ed4af28|3473445|00004294ocn3c87nr5ci|13||200|0|0|ee25bdef-a856-4367-b600-0da3b6e21454|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/mukashi.jpg|8|2|1688151500|a70ddcf0fb563bd523b5f7634edee0b7|597985|00004341ocn3c87nr5ci|13||200|0|0|98fe4f9a-377d-40e9-b319-a914d85afbe4|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/lonely-night.jpg|8|2|1688151500|bff19618451ab95ebaf6b618900a8fcf|1896001|00004297ocn3c87nr5ci|13||200|0|0|4ca09053-611a-41da-808d-dd3879eb571c|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/neon.jpg|8|2|1688151500|c03277def73deb4f6f99bdeee9b01ac3|289052|00004340ocn3c87nr5ci|13||200|0|0|f88128e4-4d74-4657-a24a-c1a5304cbbb0|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/simple-gentoo.jpg|8|2|1688151500|99b3228bc20ed136545dce5c8d7479eb|26196|00004339ocn3c87nr5ci|13||200|0|0|d88ceb3f-d467-4cf0-abc6-1b836c65bd78|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/old.png|8|2|1688151500|c54ff2c6d69675cceb5fbf7c0e30efc0|3127175|00004300ocn3c87nr5ci|13||200|0|0|96a6f26a-52da-4322-aa18-f6d969ee393b|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/wallpaper-dark.jpg|8|2|1688151500|3c89b1020e74496f873e1ce1aea82eaa|1386946|00004299ocn3c87nr5ci|13||200|0|0|f03117fc-4511-49e8-9cb4-ff333d4b3fa3|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpapers/wallpaper.jpg|8|2|1688151500|62be48c52217fd162293be373ee6089d|519565|00004342ocn3c87nr5ci|13||200|0|0|2109b827-fd60-453f-aea2-f70ddd385b59|
+||computer stuff/linux/Scripts/wallpaper-switcher/wofi|8|2|1688761633|64a875216b335|0|00004273ocn3c87nr5ci|13||0|0|0||
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpaper-switcher|8|2|1688151500|b6869103bcfb95533d0c6802239492d2|2106|00004324ocn3c87nr5ci|13||200|0|0|44eff42c-7791-4d40-a6e3-b7ad0b366a11|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/changeWallpaper2|8|2|1688151500|9c5eb2a3ce01babcbb6469a8b30c3af7|311|00004323ocn3c87nr5ci|13||200|0|0|67dee5fc-c6d2-4690-b7f0-55dfba294d0d|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/wofi/colors|8|2|1688151500|3de0318d97e0273ac637fb7182a49f57|48|00004325ocn3c87nr5ci|13||200|0|0|549dd63a-4a84-41bb-82cb-af9bd8bce968|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/wofi/config|8|2|1688151500|49698609a6f4626e59b0760799fd932a|498|00004328ocn3c87nr5ci|13||200|0|0|172d1751-b96a-4656-86af-e4441e03d11e|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/wofi/style.css|8|2|1688151500|cba26269af5bcfd95ba11e20212a62bc|789|00004327ocn3c87nr5ci|13||200|0|0|80ffc166-225b-4631-9f3d-74e332aab108|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/scripts/wallpaper-switcher2|8|2|1688151500|6cee6580352cbc60247d905c4c5ba5dd|1980|00004326ocn3c87nr5ci|13||200|0|0|809f494d-bc7c-41d7-8169-b4f14d2597b4|
+17:12:23||computer stuff/linux/Scripts/wallpaper-switcher/README.md|8|2|1688151500|481ae7221f35d38818735ec6f1221182|1262|00004304ocn3c87nr5ci|13||200|0|0|88f1c9c3-12b5-4ff8-b392-d9f53554b9f5|
+17:12:23||computer stuff/linux/Scripts/key.txt|8|2|1687368740|34c6b5dacd5d2e8c25e71ff1ebfcc917|84|00000362ocn3c87nr5ci|13||200|0|0|debdd602-60f9-4cdb-a608-5b295c4a1f1b|
+17:12:23||computer stuff/linux/Scripts/starship.toml|8|2|1687347432|87c69fc2311dd3470e2cbc357782c77e|2926|00000363ocn3c87nr5ci|13||200|0|0|76dcf3ba-c3f1-4098-a988-9d023647222d|
+17:12:23||computer stuff/linux/Scripts/swww_randomize.sh|8|2|1688380908|d8ea2a7a9370bb02b3be4a4dc33201a6|729|00004343ocn3c87nr5ci|13||200|0|0|a4104af7-b920-4380-91d8-48ef42780010|
+||computer stuff/linux/dev-environment-files|8|2|1688761680|64a8755069f04|0|00004346ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.config|8|2|1688761678|64a8754e463e2|0|00004347ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.config/skhd|8|2|1688761678|64a8754e256f8|0|00004349ocn3c87nr5ci|13||0|0|0||
+17:12:23||computer stuff/linux/Scripts/wofi-power.sh|8|2|1688316714|9df6c7605692692abd35591e29526157|368|00004344ocn3c87nr5ci|13||200|0|0|b7b82273-dab8-4df2-831f-ef5087b90a72|
+||computer stuff/linux/dev-environment-files/.config/yabai|8|2|1688761678|64a8754e463e2|0|00004350ocn3c87nr5ci|13||0|0|0||
+17:12:23||computer stuff/linux/dev-environment-files/.config/yabai/yabairc|8|2|1688298324|a6864fbaa5ab9169107ff7356f707ee1|1110|00004371ocn3c87nr5ci|13||200|0|0|95d597d6-6cc6-4f76-ae00-0437611c3b59|
+17:12:23||computer stuff/linux/dev-environment-files/.config/skhd/skhdrc|8|2|1688298324|882884f3d5f62e560bf3c9879f6b0632|2230|00004369ocn3c87nr5ci|13||200|0|0|788f7ab4-c1f0-4cc2-8e61-8948269e230e|
+||computer stuff/linux/dev-environment-files/.git|8|2|1688761680|64a8755069f04|0|00004348ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/branches|8|2|1688761677|64a8754d1068e|0|00004351ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/hooks|8|2|1688761679|64a8754f6ed33|0|00004352ocn3c87nr5ci|13||0|0|0||
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/commit-msg.sample|8|2|1688298324|d7a854f440e41fa11e10bab34226f69f|896|00004374ocn3c87nr5ci|13||200|0|0|0acba83b-fc46-4b06-a684-83dcb614a914|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/applypatch-msg.sample|8|2|1688298324|f053d6e175d4f30295b3515f0666c220|478|00004373ocn3c87nr5ci|13||200|0|0|9afbe083-b025-49e1-b812-7c0d8d610fb9|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/fsmonitor-watchman.sample|8|2|1688298324|45a6e2d60032926a513796bc78a3b93e|4726|00004377ocn3c87nr5ci|13||200|0|0|bc524fc2-c8d2-4c00-9b03-de82b33660f8|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/post-update.sample|8|2|1688298324|017a34969976645d9f22026ba478f1da|189|00004375ocn3c87nr5ci|13||200|0|0|537a10a1-7ec8-46f7-a0b0-b32d37c2a139|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/pre-applypatch.sample|8|2|1688298324|93e95432020495cc66f7f999cf744a90|424|00004376ocn3c87nr5ci|13||200|0|0|d7b5e880-03ba-4459-a76e-7e2d5d8dbcf0|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/pre-merge-commit.sample|8|2|1688298324|8eb1b19231dc05f427d2a4158bdb0945|416|00004379ocn3c87nr5ci|13||200|0|0|c9a5c22a-b7a3-49c3-9f35-9cdb8b5d4de3|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/pre-commit.sample|8|2|1688298324|4fca9aa05b31262f5eb5b17135861faf|1643|00004378ocn3c87nr5ci|13||200|0|0|01bf5464-0442-41da-a357-51f850dc192e|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/pre-push.sample|8|2|1688298324|7f9f2549c81518b2992fc671fe3032e1|1374|00004380ocn3c87nr5ci|13||200|0|0|ba6bb91e-d167-4b43-8879-b10625be43d8|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/pre-rebase.sample|8|2|1688298324|cb655f79474c789c5db98fb8ea6d3a49|4898|00004381ocn3c87nr5ci|13||200|0|0|ad78ddc6-b574-45f0-a8ca-49b2d9cab3ec|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/pre-receive.sample|8|2|1688298324|0b191d5ff726fc39e35a5ecc22b798d4|544|00004382ocn3c87nr5ci|13||200|0|0|c4ae8c21-0eaf-443f-82df-e2de2eb8363a|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/prepare-commit-msg.sample|8|2|1688298324|61b2c243e7d873c2162548d8a85af4d9|1492|00004383ocn3c87nr5ci|13||200|0|0|1c059e0c-833b-4779-8cbb-37e6da596581|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/push-to-checkout.sample|8|2|1688298324|662024382db262237d3282df47af6d33|2783|00004384ocn3c87nr5ci|13||200|0|0|037b2dd7-84b5-4751-bc89-8d585d4bab08|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/sendemail-validate.sample|8|2|1688298324|b6999a954eba14aced930aadf9ce59d0|2308|00004385ocn3c87nr5ci|13||200|0|0|70c3d67e-154e-40e8-aaa2-c9f8a98d16e3|
+||computer stuff/linux/dev-environment-files/.git/info|8|2|1688761679|64a8754fc6622|0|00004353ocn3c87nr5ci|13||0|0|0||
+17:12:24||computer stuff/linux/dev-environment-files/.git/info/exclude|8|2|1688298324|37a7d7fe2e75357589f9f868768cd7e2|240|00004392ocn3c87nr5ci|13||200|0|0|47712a9d-5f41-4718-8199-d49c0fcb54c6|
+17:12:24||computer stuff/linux/dev-environment-files/.git/hooks/update.sample|8|2|1688298324|f5bb0074c185a4fbd5dbb15dd532d42c|3650|00004387ocn3c87nr5ci|13||200|0|0|2a01cc61-8858-4929-b71b-da428c0229b8|
+||computer stuff/linux/dev-environment-files/.git/logs|8|2|1688761680|64a87550438fd|0|00004354ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/logs/refs|8|2|1688761680|64a87550438fd|0|00004357ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/logs/refs/heads|8|2|1688761680|64a875501d29e|0|00004360ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/logs/refs/remotes|8|2|1688761680|64a87550438fd|0|00004361ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/logs/refs/remotes/origin|8|2|1688761680|64a87550438fd|0|00004365ocn3c87nr5ci|13||0|0|0||
+17:12:24||computer stuff/linux/dev-environment-files/.git/logs/refs/heads/main|8|2|1688298324|5df5b32b917b46773585a4667f1c3fcc|198|00004396ocn3c87nr5ci|13||200|0|0|c21d616c-6658-4d80-82ae-b58299ddb6cd|
+||computer stuff/linux/dev-environment-files/.git/objects|8|2|1688761680|64a8755069f04|0|00004355ocn3c87nr5ci|13||0|0|0||
+17:12:24||computer stuff/linux/dev-environment-files/.git/logs/refs/remotes/origin/HEAD|8|2|1688298324|96619dd630dc12f74f1d91f97fe6defb|198|00004398ocn3c87nr5ci|13||200|0|0|022e69e4-a5ee-4617-ad4a-d63f291d682b|
+||computer stuff/linux/dev-environment-files/.git/objects/info|8|2|1688761677|64a8754d5c285|0|00004358ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/objects/pack|8|2|1688761680|64a8755069f04|0|00004359ocn3c87nr5ci|13||0|0|0||
+17:12:24||computer stuff/linux/dev-environment-files/.git/logs/HEAD|8|2|1688298324|eacead308e19b2c942586ae9f7d0d066|198|00004393ocn3c87nr5ci|13||200|0|0|e99096b3-c799-45f1-a1a0-053260530875|
+||computer stuff/linux/dev-environment-files/.git/refs|8|2|1688761680|64a87550570c5|0|00004356ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/refs/heads|8|2|1688761680|64a875502fe65|0|00004362ocn3c87nr5ci|13||0|0|0||
+17:12:24||computer stuff/linux/dev-environment-files/.git/objects/pack/pack-dfd329ce3852cbf5239e8e18a3f999676b014131.idx|8|2|1688298324|0943079046278148d1c68f65855a81c6|13980|00004394ocn3c87nr5ci|13||200|0|0|df79f654-6a2b-49c3-a5ab-1a9c509f7cbc|
+17:12:24||computer stuff/linux/dev-environment-files/.git/objects/pack/pack-dfd329ce3852cbf5239e8e18a3f999676b014131.pack|8|2|1688298324|2657d3b38a87570bafb7c10d4b5f01aa|80089|00004400ocn3c87nr5ci|13||200|0|0|85b65285-4690-47f1-977e-e1797aacdabf|
+17:12:24||computer stuff/linux/dev-environment-files/.git/objects/pack/pack-dfd329ce3852cbf5239e8e18a3f999676b014131.rev|8|2|1688298324|2bfffffa7d1308048ed643213cb966b6|1896|00004395ocn3c87nr5ci|13||200|0|0|27d28251-c04a-4236-bd40-05ec39da9946|
+||computer stuff/linux/dev-environment-files/.git/refs/remotes|8|2|1688761680|64a87550570c5|0|00004363ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/refs/remotes/origin|8|2|1688761680|64a87550570c5|0|00004366ocn3c87nr5ci|13||0|0|0||
+||computer stuff/linux/dev-environment-files/.git/refs/tags|8|2|1688761677|64a8754d97b5e|0|00004364ocn3c87nr5ci|13||0|0|0||
+17:12:24||computer stuff/linux/dev-environment-files/.git/refs/heads/main|8|2|1688298324|64dc78cdf430e310114256a26be02fab|41|00004397ocn3c87nr5ci|13||200|0|0|2db54d61-eaa7-42a5-aad4-037b0c5ae62f|
+17:12:24||computer stuff/linux/dev-environment-files/.git/refs/remotes/origin/HEAD|8|2|1688298324|78765dbc711061e103c516193f112e10|30|00004399ocn3c87nr5ci|13||200|0|0|97a57bc6-e2bb-41d1-867f-449453432cc9|
+17:12:23||computer stuff/linux/Scripts/cider-polybar|8|2|1666625210|46ac5d9b09f71f5abf2e2ca0eeb36c84|43860982|00000349ocn3c87nr5ci|13||200|0|0|cfe14198-14ab-4577-b90b-ac57d6c02d2e|
+17:12:24||computer stuff/linux/dev-environment-files/.git/HEAD|8|2|1688298324|206c605a94c4b6b8778aa36be65e54de|21|00004386ocn3c87nr5ci|13||200|0|0|2085cc54-bb9e-4e85-8bb4-e4bce1bbf128|
+17:12:24||computer stuff/linux/dev-environment-files/.git/config|8|2|1688298324|d84eaa703c7109c57d5ec8de5f99ddb7|276|00004388ocn3c87nr5ci|13||200|0|0|20dae6e4-1e94-4a74-bd82-540bac56e39c|
+17:12:24||computer stuff/linux/dev-environment-files/.git/description|8|2|1688298324|bcb759631c39c79d76c3ed186ae9097e|73|00004389ocn3c87nr5ci|13||200|0|0|47640398-47d3-4338-8e6b-b4d87db41c19|
+17:12:24||computer stuff/linux/dev-environment-files/.git/index|8|2|1688298324|8c38a36c1331d252ccd828fae2711d17|2859|00004390ocn3c87nr5ci|13||200|0|0|b48488f7-b518-4bd3-ac6d-c66cb7514ee3|
+17:12:24||computer stuff/linux/dev-environment-files/.git/packed-refs|8|2|1688298324|2278ede912ddbe418758e8e8d54a5849|270|00004391ocn3c87nr5ci|13||200|0|0|760668d6-6808-4532-92ca-7ee6b1ffd9d9|
+17:12:24||computer stuff/linux/dev-environment-files/.zshrc|8|2|1688298324|806b3505a4c1d5086db9eb99bcca86aa|4472|00004370ocn3c87nr5ci|13||200|0|0|e2bc2f79-e70a-41b8-801c-33c68448c89c|
+17:12:24||computer stuff/linux/dev-environment-files/.tmux.conf|8|2|1688298324|70b01dacb17a0da4cdf32ae4758f4c5e|1311|00004368ocn3c87nr5ci|13||200|0|0|c61454e8-e2ee-4194-b80c-3944ae82c426|
+17:12:25||computer stuff/linux/dev-environment-files/README.md|8|2|1688298324|599d8f68b6827dceeee9aef392d90a25|7292|00004372ocn3c87nr5ci|13||200|0|0|596f20c5-9f94-4e3f-89d5-2f306789221b|
+||computer stuff/linux/icons|8|2|1688472539|64a40bdc06b91|0|00000337ocn3c87nr5ci|13||0|0|0||
+17:12:25||computer stuff/linux/dev-environment-files/coolnight.itermcolors|8|2|1688298324|63e11fdada10dcf779d5275441533f84|8633|00004367ocn3c87nr5ci|13||200|0|0|12582f0a-f6a4-4464-9253-da9b87cfc240|
+17:12:25||computer stuff/linux/icons/layout-floating.png|8|2|1687543561|fbfa34068e39ba5d3d85145e9d41cb50|232|00000364ocn3c87nr5ci|13||200|0|0|c2d1b566-962e-46b5-b34e-cfb521af5835|
+17:12:25||computer stuff/linux/icons/layout-max.png|8|2|1687543585|f9359c2292ec97dd5007d8093f57f5b0|1143|00000365ocn3c87nr5ci|13||200|0|0|8f76ca96-0009-4f4e-a2d7-bedd2b64c6db|
+17:12:25||computer stuff/linux/icons/layout-monadtall.png|8|2|1687543594|4e5143a2cfc1db1357850288abe3d599|218|00000366ocn3c87nr5ci|13||200|0|0|9d84cde3-1c33-4ba3-8f94-3a1b93c47487|
+||computer stuff/linux/packages|8|2|1688472540|64a40bdc24311|0|00000338ocn3c87nr5ci|13||0|0|0||
+17:12:25||computer stuff/linux/icons/layout-tile.png|8|2|1687543608|f9940f569c850d6a487b9ae10d3c94d6|225|00000367ocn3c87nr5ci|13||200|0|0|0af769ab-9798-477e-9721-af5577c5b1c3|
+17:12:25||computer stuff/linux/icons/layout-treetab.png|8|2|1687543623|ae8273fc654df7940966d50330e30f6c|212|00000368ocn3c87nr5ci|13||200|0|0|9bf95f1e-7aab-4408-9221-89dd14e336cc|
+17:12:25||computer stuff/linux/icons/python-white.png|8|2|1687543633|e3e0965ec541cd2197fa62e403f8f986|1193|00000369ocn3c87nr5ci|13||200|0|0|50395ddf-f923-484b-84db-4333f3a7e2ad|
+17:12:25||computer stuff/linux/icons/python.png|8|2|1687543646|bef4d55cd79c070c8350f1c7eb361d16|746|00000370ocn3c87nr5ci|13||200|0|0|0c7d84b6-7485-402d-adab-69f4ee88f40f|
+17:12:25||computer stuff/linux/packages/list|8|2|1686963892|a82a319f52e149eff980c7d1c437f043|563|00000371ocn3c87nr5ci|13||200|0|0|11342248-5532-4715-b772-47e132a5adc7|
+17:12:25||computer stuff/linux/packages/list.md|8|2|1686185902|ee78dbf48196a0f139b93d1d0eecef50|276|00000372ocn3c87nr5ci|13||200|0|0|75cc1630-7bfe-465a-b85e-30dac01a5bc4|
+17:12:25||computer stuff/bookmarks_16_01_2024.html|8|2|1705434702|05a247d7676a5cd86211a74423eb87ef|19555|00014305ocn3c87nr5ci|13||200|0|0|94687d7b-a823-4a84-844d-9b1946820287|
+17:12:19||computer stuff/linux/Applications/UltiMaker-Cura-5.5.0-linux-X64.AppImage|8|2|1699022261|c7e21bd1456db4fc1e6fcb3e3ec57844|303776960|00014169ocn3c87nr5ci|13||200|0|0|f83f900a-5c14-4b82-800f-7fec08b22781|
+#=#=#=# Syncrun finished 2024-01-24T17:12:27Z (last step: 18137 msec, total: 19749 msec)
+#=#=#=# Syncrun started 2024-01-24T17:12:34Z
+#=#=#=#=# Propagation starts 2024-01-24T17:12:34Z (last step: 257 msec, total: 257 msec)
+#=#=#=# Syncrun finished 2024-01-24T17:12:34Z (last step: 13 msec, total: 270 msec)
