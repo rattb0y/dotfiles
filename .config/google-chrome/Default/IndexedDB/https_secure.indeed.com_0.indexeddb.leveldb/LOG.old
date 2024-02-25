@@ -1,7 +1,0 @@
-2024/01/25-10:12:51.996 892 Reusing MANIFEST /home/kris/.config/google-chrome/Default/IndexedDB/https_secure.indeed.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/25-10:12:51.997 892 Recovering log #3
-2024/01/25-10:12:51.999 892 Reusing old log /home/kris/.config/google-chrome/Default/IndexedDB/https_secure.indeed.com_0.indexeddb.leveldb/000003.log 
-2024/01/25-10:12:55.316 893 Level-0 table #5: started
-2024/01/25-10:12:55.317 893 Level-0 table #5: 1260 bytes OK
-2024/01/25-10:12:55.319 893 Delete type=0 #3
-2024/01/25-10:12:55.320 893 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

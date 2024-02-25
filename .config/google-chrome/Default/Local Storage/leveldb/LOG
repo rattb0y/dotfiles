@@ -1,6 +1,0 @@
-2024/02/25-13:59:28.735 4 Reusing MANIFEST /home/kris/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/02/25-13:59:28.738 4 Recovering log #250
-2024/02/25-13:59:28.740 4 Reusing old log /home/kris/.config/google-chrome/Default/Local Storage/leveldb/000250.log 
-2024/02/25-14:00:47.062 4 Level-0 table #254: started
-2024/02/25-14:00:47.066 4 Level-0 table #254: 29155 bytes OK
-2024/02/25-14:00:47.071 4 Delete type=0 #250

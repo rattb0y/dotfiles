@@ -1,6 +1,0 @@
-2024/02/25-13:59:28.704 df7 Reusing MANIFEST /home/kris/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/02/25-13:59:28.724 df7 Recovering log #1690
-2024/02/25-13:59:28.735 df7 Reusing old log /home/kris/.config/google-chrome/Default/Sync Data/LevelDB/001690.log 
-2024/02/25-13:59:35.346 e15 Level-0 table #1694: started
-2024/02/25-13:59:35.357 e15 Level-0 table #1694: 105772 bytes OK
-2024/02/25-13:59:35.370 e15 Delete type=0 #1690

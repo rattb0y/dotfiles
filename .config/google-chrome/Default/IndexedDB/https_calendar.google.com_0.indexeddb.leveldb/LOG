@@ -1,6 +1,0 @@
-2024/01/26-15:15:38.318 8ac2 Creating DB /home/kris/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb since it was missing.
-2024/01/26-15:15:38.327 8ac2 Reusing MANIFEST /home/kris/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/26-15:16:32.009 8ac3 Level-0 table #5: started
-2024/01/26-15:16:32.011 8ac3 Level-0 table #5: 1534 bytes OK
-2024/01/26-15:16:32.012 8ac3 Delete type=0 #3
-2024/01/26-15:16:32.013 8ac3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
