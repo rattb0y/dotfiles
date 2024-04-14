@@ -47,7 +47,7 @@ sudo pacman -S nextcloud-client
 ```
 **variety** - For random background
 ```bash
-sudo pacman -S nextcloud-client
+sudo pacman -S variety
 ```
 **swww** - for the Wallpapers
 
@@ -58,4 +58,9 @@ yay -S swww
 If you are using paru for the AUR:
 ```bash
 paru -S swww
+```
+**INSTALL ALL**
+```bash
+sudo pacman -S waybar swaylock swayidle swaybg feh dmenu wofi thunar alacritty fish nextcloud-client variety
+yay -S swww
 ```
