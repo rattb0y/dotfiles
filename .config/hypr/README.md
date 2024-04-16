@@ -59,8 +59,19 @@ If you are using paru for the AUR:
 ```bash
 paru -S swww
 ```
+**pyprland** - Customize Hyprland with scratchpads, menus, easy monitor layout and other extensions
+
+If you are using yay for the AUR:
+```bash
+yay -S pyprland
+```
+If you are using paru for the AUR:
+```bash
+paru -S pyprland
+```
+
 **INSTALL ALL**
 ```bash
 sudo pacman -S waybar swaylock swayidle swaybg feh dmenu wofi thunar alacritty fish nextcloud-client variety
-yay -S swww
+yay -S swww pyprland
 ```
