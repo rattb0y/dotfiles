@@ -15,15 +15,25 @@ set -U fish_user_paths $HOME/.bin  $HOME/.local/bin $HOME/.config/emacs/bin $HOM
 ### EXPORT ###
 set fish_greeting  # Supresses fish's intro message
 
+fastfetch
+
 ### SETTING THE STARSHIP PROMPT ###
 starship init fish | source
 
 # navigation
+alias home='cd ~'
+alias cd..='cd ..'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias .3='cd ../../..'
 alias .4='cd ../../../..'
 alias .5='cd ../../../../..'
+
+# Trash alias
+alias trash-l='trash-list'
+alias trash-r='trash-restore'
+alias trash-e='trash-empty'
+
 
 # Changing "ls" to "exa"
 alias ls='exa -al --color=always --group-directories-first' # my preferred listing
@@ -50,7 +60,7 @@ alias fgrep='fgrep --color=auto'
 # confirm before overwriting something
 alias cp="cp -i"
 alias mv='mv -i'
-alias rm='rm -i'
+alias rm='trash -v'
 
 # adding flags
 alias df='df -h'                          # human-readable sizes
