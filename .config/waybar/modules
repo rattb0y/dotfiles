@@ -20,10 +20,10 @@
  }
 },
 
-"custom/arch": {
-  "format": " ",
+"custom/power": {
+  "format": "⏻ ",
   "tooltip": false,
-    "on-click": "/home/kris/.config/wofi/scripts/wofi-power.sh"
+    "on-click": "wlogout"
 },
 
 "hyprland/window": {
@@ -103,34 +103,18 @@
      "on-click": "pavucontrol"
 },
 
-// "custom/weather" : {
-//         "tooltip" : true,
-//        "format" : "{}",
-//        "interval" : 30,
-//        "exec" : "wttrbar",
-//        "return-type" : "json"
-// },
-
 "custom/weather": {
-    "exec": "${HOME}/.config/waybar/scripts/get_weather.sh Toronto+Canada",
+    "exec": "${HOME}/.config/waybar/scripts/get_weather.sh Toronto",
     "return-type": "json",
     "format": "{}",
     "tooltip": true,
     "interval": 3600
 },
 
-
-"bluetooth": {
-	"format": " {status}",
-	"format-connected": " {device_alias}",
-	"format-connected-battery": " {device_alias} {device_battery_percentage}%",
-	// "format-device-preference": [ "device1", "device2" ], // preference list deciding the displayed device
-	"tooltip-format": "{controller_alias}\t{controller_address}\n\n{num_connections} connected",
-	"tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate}",
-	"tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
-	"tooltip-format-enumerate-connected-battery": "{device_alias}\t{device_address}\t{device_battery_percentage}%"
+"disk": {
+    "interval": 30,
+    "format": "Only {percentage_free}% remaining",
+    "path": "/"
 },
-
-
 
 }

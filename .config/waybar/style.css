@@ -9,7 +9,7 @@ window#waybar {
   background: transparent;
 }
 
-#custom-arch,
+#custom-power,
 #workspaces,
 #custom-weather {
   border-radius: 10px;
@@ -22,7 +22,7 @@ window#waybar {
   padding-right: 5px;
 }
 
-#custom-arch {
+#custom-power {
   font-size: 20px;
   margin-left: 5px;
   color: #b4befe;
@@ -33,6 +33,13 @@ window#waybar {
   color: #b4befe;
 }
 
+#workspaces button.active {
+  color: #11111b;
+  background: #b4befe;
+}
+
+#disk,
+#idle_inhibitor,
 #clock,
 #pulseaudio,
 #network,
