@@ -69,6 +69,16 @@ If you are using paru for the AUR:
 ```bash
 paru -S pyprland
 ```
+**wlogout** - Logout menu for Wayland
+
+If you are using yay for the AUR:
+```bash
+yay -S wlogout
+```
+If you are using paru for the AUR:
+```bash
+paru -S wlogout
+```
 
 **INSTALL ALL**
 ```bash
