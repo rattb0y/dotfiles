@@ -13,8 +13,13 @@ paru -S wttrbar
 ```
 # Fonts needed
 **Jet Brains Mono** - Main font used
+
 **Font Awesome 6 Brands** - for icons in the workspaces module
+
 **Roboto** 
+
 **Helvetica** 
+
 **Arial** 
+
 **sans-serif**
